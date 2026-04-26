@@ -1,0 +1,30 @@
+# Personal wiki content — don't share your actual knowledge base
+wiki/concepts/
+wiki/entities/
+wiki/sources/
+wiki/queries/
+wiki/comparisons/
+
+# Keep these (starter files only)
+!wiki/concepts/_template.md
+!wiki/entities/_template.md
+!wiki/sources/_template.md
+!wiki/queries/_template.md
+
+# Keep raw structure but not personal notes
+raw/articles/
+raw/books/
+raw/papers/
+raw/podcasts/
+raw/videos/
+raw/assets/
+
+# Obsidian workspace (personal)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

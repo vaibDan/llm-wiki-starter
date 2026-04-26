@@ -1,0 +1,25 @@
+{
+  "colorGroups": [
+    {
+      "query": "path:wiki/concepts",
+      "color": { "a": 1, "rgb": 4584955 }
+    },
+    {
+      "query": "path:wiki/entities",
+      "color": { "a": 1, "rgb": 14368784 }
+    },
+    {
+      "query": "path:wiki/sources",
+      "color": { "a": 1, "rgb": 9232093 }
+    },
+    {
+      "query": "path:wiki/queries",
+      "color": { "a": 1, "rgb": 16744272 }
+    }
+  ],
+  "showArrow": true,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "linkDistance": 250,
+  "repelStrength": 10
+}
