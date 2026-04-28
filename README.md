@@ -50,6 +50,10 @@ Open Obsidian → "Open folder as vault" → select `llm-wiki-starter/`
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+OR Use 
+```bash
+npm i -g opencode-ai
+```
 
 ### 4. Start your first session
 ```bash
